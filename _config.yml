@@ -1,0 +1,14 @@
+layout_spectrum: 0.1007463
+color:
+  saturation: 0.744403
+  lightness: 0.2304104
+  brandStrength: 0.8013059
+  brandColors:
+    - '#393939'
+    - '#BD885C'
+    - '#FBBD7F'
+    - '#FFFCFF'
+    - '#FFBD20'
+  rhythmicContrast: 0.7770522
+typography_spectrum: 0.4682836
+name: John Hirsch
